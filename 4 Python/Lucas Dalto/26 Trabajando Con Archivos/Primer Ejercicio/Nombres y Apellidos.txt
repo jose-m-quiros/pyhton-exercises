@@ -1,0 +1,32 @@
+Los Datos Son: 
+ 
+Nombre: Jose
+Apellidos: Mantequilla  
+
+---------------------
+
+Nombre: Pedro
+Apellidos: Alvares  
+
+---------------------
+
+Nombre: Juan
+Apellidos: Quintero  
+
+---------------------
+
+Nombre: Alberto
+Apellidos: Landi  
+
+---------------------
+
+Nombre: Roberto
+Apellidos: Said  
+
+---------------------
+
+Nombre: Emanuel
+Apellidos: Gazmey  
+
+---------------------
+

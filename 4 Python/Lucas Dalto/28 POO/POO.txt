@@ -1,0 +1,21 @@
+¿Que es POO?
+POO es una forma mas de programar.
+Modelo de programación informática que organiza el diseño de software en torno a datos u objetos, 
+en lugar de funciones y lógica
+
+
+("Clase y Objetos"): 
+Bases sobre la que despues podemos construir y diseñar cualquier software que tengamos ganas. 
+Cada objeto es una instancia de una clase, una clase es una clase de plantilla que tenemos, 
+que creamos nosotros que definine las propiedades y comportamientos de los objetos que se crean 
+a partir de esas mismas clases.
+
+
+Para que sirve esto: 
+Sirve para organizar la estructura y la organizacion de nuestro codigo, lo que hace mucho mas facil escalar 
+el codigo es decir ampliarlo de forma optima y porder mantenerlo, tambien nos permite reutilizar codigo ya que si creamos 
+objetos constantemente de una misma clase no tenemos que estar definiendo sus propiedades ni sus metodos porque ya mas o menos 
+ya esta todo establecido en la clase.
+
+Tambien nos permite que el codigo sea mas seguro ya que lo podemos encapsular ya que tiene propiedades y metodos a los que 
+solo se pueda acceder con metodos especificos
